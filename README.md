@@ -158,4 +158,3 @@ Multiple models were compared to identify the best-performing one based on evalu
 
 ## ⭐ If you like this project
 
-Give it a ⭐ on GitHub and feel free to contribute!
